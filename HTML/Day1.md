@@ -51,7 +51,7 @@ This HTML document creates a simple webpage with a heading and a paragraph.
 | 2017 	| W3C Recommendation: HTML5.2             	|
 
 ### HTML Page Structure
-![page structure](https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/tutorial/html-page-structure/html-tag-structure-image.png)
+![page structure](https://s3-alpha.figma.com/hub/file/803793343/8b2d09d9-4596-466f-9ff1-d9f0ed23c58c-cover.png)
 
 ### Web Browsers
 - The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
