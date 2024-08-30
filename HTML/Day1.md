@@ -51,13 +51,13 @@ This HTML document creates a simple webpage with a heading and a paragraph.
 | 2017 	| W3C Recommendation: HTML5.2             	|
 
 ### HTML Page Structure
-![page structure](https://s3-alpha.figma.com/hub/file/803793343/8b2d09d9-4596-466f-9ff1-d9f0ed23c58c-cover.png)
+![page structure](../img/HTML%20Page%20Structure.png)
 
 ### Web Browsers
 - The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
 
 - A browser does not display the HTML tags, but uses them to determine how to display the document:
-![browsers](https://www.w3schools.com/html/img_chrome.png)
+![browsers](../img/img_chrome.png)
 
 ### Tag
 - A tag is a part of the HTML markup language that tells the browser how to structure the content on a web page.
